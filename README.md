@@ -10,7 +10,8 @@ Principal Site Reliability Engineer at [Powerflex][powerflex]
 ### Stats
 ![Github Years][gh-years-badge] ![Github Visits][gh-visits-badge]
 
-[![Github Stats][gh-stats-section]][profile] [![Github Languages][gh-languages-section]][profile]
+[![Github Stats][gh-stats-section]][profile] 
+[![Stackoverflow Stats][stackoverflow-section]][profile]
 
 [powerflex]: https://www.powerflex.com/
 [linkedin]: https://www.linkedin.com/in/kampe/
@@ -20,6 +21,6 @@ Principal Site Reliability Engineer at [Powerflex][powerflex]
 [gh-years-badge]: https://badges.pufler.dev/years/Kampe?style=for-the-badge&label=Github%20Years&color=white
 [gh-visits-badge]: https://badges.pufler.dev/visits/Kampe/kampe?style=for-the-badge&color=white
 [gh-stats-section]: https://github-readme-stats.vercel.app/api?username=kampe&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true
-[gh-languages-section]: https://github-readme-stats.vercel.app/api/top-langs/?username=Kampe&layout=compact&theme=tokyonight&hide_title=true&card_width=230
+[stackoverflow-section]: https://stackoverflow-badge.vercel.app/?userID=201297
 [profile]: https://github.com/kampe
 
