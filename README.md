@@ -8,9 +8,10 @@ Principal Site Reliability Engineer at [Powerflex][powerflex]
 [![linkedin][linkedin-badge]][linkedin] [![gmail][gmail-badge]][gmail]
 
 ### Stats
-![Github Years][gh-years-badge] ![Github Visits][gh-visits-badge]
 
 ![Stackoverflow Stats][stackoverflow-section]
+
+![Github Years][gh-years-badge] ![Github Visits][gh-visits-badge]
 
 [![Github Stats][gh-stats-section]][profile] 
 
