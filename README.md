@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# I'm Nick Kampe
+# Nick Kampe
 
 *Principal Site Reliability Engineer at [Powerflex][powerflex]*
 
