@@ -9,9 +9,9 @@ Principal Site Reliability Engineer at [Powerflex][powerflex]
 
 ### Stats
 ![Github Years][gh-years-badge] ![Github Visits][gh-visits-badge]
-
-[![Github Stats][gh-stats-section]][profile] 
 [![Stackoverflow Stats][stackoverflow-section]][profile]
+[![Github Stats][gh-stats-section]][profile] 
+
 
 [powerflex]: https://www.powerflex.com/
 [linkedin]: https://www.linkedin.com/in/kampe/
