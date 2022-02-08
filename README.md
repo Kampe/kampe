@@ -18,7 +18,7 @@ I'm passionate about delivering value
 [linkedin]: https://www.linkedin.com/in/kampe/
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
 [gmail]: mailto:nickkampe+github@gmail.com
-[gmail-badge]: https://img.shields.io/badge/gmail-nick%40cajun.pro-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white
+[gmail-badge]: https://img.shields.io/badge/gmail-nickkampe%40gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white
 [gh-years-badge]: https://badges.pufler.dev/years/Kampe?style=for-the-badge&label=Github%20Years&color=white
 [gh-visits-badge]: https://badges.pufler.dev/visits/Kampe/kampe?style=for-the-badge&color=white
 [gh-stats-section]: https://github-readme-stats.vercel.app/api?username=kampe&count_private=true&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true
