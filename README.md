@@ -3,7 +3,7 @@
 *Passionate about delivering value*
 
 ### Contact
-[![linkedin][linkedin-badge]][linkedin] [![gmail][gmail-badge]][gmail]
+[![linkedin][linkedin-badge]][linkedin][![gmail][gmail-badge]][gmail]
 
 [linkedin]: https://www.linkedin.com/in/kampe/
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
