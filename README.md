@@ -8,17 +8,6 @@
 
 </div>
 
----
-
-```text
- Infrastructure    ██████████████████░░   90%
- Automation        █████████████████░░░   85%
- Shell / CLI       ████████████████░░░░   80%
- Backend Dev       ██████████████░░░░░░   70%
-```
-
----
-
 ### Tech Stack
 
 <table>
@@ -55,6 +44,22 @@
 
 ---
 
+---
+
+<div align="center">
+<pre>
+ Infrastructure    █████████████████░░░   85%
+ DevOps / SRE      █████████████████░░░   85%
+ Automation        ████████████████░░░░   80%
+ Shell / CLI       ████████████████░░░░   80%
+ Backend Dev       ██████████████░░░░░░   70%
+ AI / ML Ops       ████████████░░░░░░░░   60%
+ Full Stack        ██████████░░░░░░░░░░   50%
+ Frontend          ████████░░░░░░░░░░░░   40%
+</pre>
+</div>
+
+---
 <div align="center">
 
 ### GitHub Stats
