@@ -11,16 +11,23 @@
 ---
 
 <div align="center">
-<pre>
+<table><tr><td><pre>
  Infrastructure    █████████████████░░░   85%
  DevOps / SRE      █████████████████░░░   85%
- Automation        ████████████████░░░░   80%
+ Orchestration     █████████████████░░░   85%
+ IaC / Automation  ████████████████░░░░   80%
+ Observability     ████████████████░░░░   80%
  Shell / CLI       ████████████████░░░░   80%
+ GitOps / CI/CD    ████████████████░░░░   80%
+</pre></td><td><pre>
+ Networking        ███████████████░░░░░   75%
  Backend Dev       ██████████████░░░░░░   70%
+ Databases         ██████████████░░░░░░   70%
+ IoT & Edge        ████████████░░░░░░░░   60%
  AI / ML Ops       ████████████░░░░░░░░   60%
  Full Stack        ██████████░░░░░░░░░░   50%
  Frontend          ████████░░░░░░░░░░░░   40%
-</pre>
+</pre></td></tr></table>
 </div>
 
 ---
@@ -39,6 +46,8 @@
 ![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white)
 ![Civo](https://img.shields.io/badge/-Civo-239DFF?style=flat&logo=civo&logoColor=white)
 ![Linode](https://img.shields.io/badge/-Linode-00A95C?style=flat&logo=linode&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 </td><td valign="top" width="33%">
 
@@ -63,13 +72,12 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Packer](https://img.shields.io/badge/-Packer-02A8EF?style=flat&logo=packer&logoColor=white)
 ![Vault](https://img.shields.io/badge/-Vault-FFEC6E?style=flat&logo=vault&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![HAProxy](https://img.shields.io/badge/-HAProxy-006DA8?style=flat&logo=haproxy&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 </td></tr>
 <tr><td valign="top" width="33%">
 
-**Languages**
+**Languages & Runtimes**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -106,12 +114,11 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Tekton](https://img.shields.io/badge/-Tekton-FD495C?style=flat&logo=tekton&logoColor=white)
 ![Flux](https://img.shields.io/badge/-Flux-5468FF?style=flat&logo=flux&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 </td></tr>
 <tr><td valign="top" width="33%">
 
-**Platforms & OS**
+**Platforms & Dev Tools**
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)
@@ -139,12 +146,16 @@
 
 </td><td valign="top" width="33%">
 
-**Frontend & Web**
+**Web & APIs**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat&logo=google&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![HAProxy](https://img.shields.io/badge/-HAProxy-006DA8?style=flat&logo=haproxy&logoColor=white)
 
 </td></tr>
 <tr><td valign="top" width="33%">
