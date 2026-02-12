@@ -10,28 +10,6 @@
 
 ---
 
-<div align="center">
-<table><tr><td><pre>
- Infrastructure    █████████████████░░░   85%
- DevOps / SRE      █████████████████░░░   85%
- Orchestration     █████████████████░░░   85%
- IaC / Automation  ████████████████░░░░   80%
- Observability     ████████████████░░░░   80%
- Shell / CLI       ████████████████░░░░   80%
- GitOps / CI/CD    ████████████████░░░░   80%
-</pre></td><td><pre>
- Networking        ███████████████░░░░░   75%
- Backend Dev       ██████████████░░░░░░   70%
- Databases         ██████████████░░░░░░   70%
- IoT & Edge        ████████████░░░░░░░░   60%
- AI / ML Ops       ████████████░░░░░░░░   60%
- Security          ██████████████░░░░░░   70%
- Frontend          ████████░░░░░░░░░░░░   40%
-</pre></td></tr></table>
-</div>
-
----
-
 ### Tech Stack
 
 <table>
@@ -46,6 +24,7 @@
 ![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white)
 ![Civo](https://img.shields.io/badge/-Civo-239DFF?style=flat&logo=civo&logoColor=white)
 ![Linode](https://img.shields.io/badge/-Linode-00A95C?style=flat&logo=linode&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
